@@ -19,7 +19,7 @@ asmfunc PROC p1:DWORD, p2:DWORD
     mov esi,p1
     mov edi,p2
 
-    Negative:                                   ;Label for loop
+    Negative:                                   ;Label for loop for
     mov eax,[esi]
     test eax,8000h                              ;Testing condition
     pushfd                                      ;Saving Flags

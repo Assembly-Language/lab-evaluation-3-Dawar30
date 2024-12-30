@@ -19,7 +19,7 @@ int main() {
     system("cls");
     int ArrNum[] = {12,-8,19,17,-6,-13,18,23};             //Declaration of Array
     int ans;
-    printf("assembly proc calling from  from C! \n");
+    printf("assembly procedure calling from  from C! \n");
 getch();
 
     

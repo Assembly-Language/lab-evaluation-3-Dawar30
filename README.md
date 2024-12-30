@@ -2,7 +2,6 @@
 
 Name: Dawar Abbas
 Registrarion No. 23-NTU-CS-1144
-Class SE-A-3rd
 
 Copy the question provided through test portal
 
