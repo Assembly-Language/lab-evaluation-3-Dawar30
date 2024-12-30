@@ -15,7 +15,7 @@ asmfunc PROC p1:DWORD, p2:DWORD
     
 
     mov ebx,0
-    mov ecx,8                                   ;Loop counter 
+    mov ecx,8                                   ;Loop counter
     mov esi,p1
     mov edi,p2
 
